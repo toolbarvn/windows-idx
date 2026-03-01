@@ -2,7 +2,7 @@
 set -e
 
 ### CONFIG ###
-ISO_URL="https://archive.org/download/bliss-os-v-12.12-android-x-86-64-202009180933-k-kernel-5.8-si-next-rmi-m-q-dgc-q/bliss-os-v-12.12-android-x-86-64-202009180933-k-kernel-5.8-si-next-rmi-m-q-dgc-q.iso"
+ISO_URL="https://archive.org/download/bliss-os-v-12.12-android-x-86-64-202009180933-k-kernel-5.8-si-next-rmi-m-q-dgc-q/Bliss-OS_v12.12-android_x86_64-202009180933_k-kernel-5.8-si-next-rmi_m-q_dgc-q-x86-generic_gms_cros-wv.iso"
 ISO_FILE="win11-gamer.iso"
 
 DISK_FILE="/var/win11.qcow2"
