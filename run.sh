@@ -2,7 +2,7 @@
 set -e
 
 ### CONFIG ###
-ISO_URL="https://go.microsoft.com/fwlink/p/?LinkID=2195443"
+ISO_URL="https://archive.org/download/bliss-os-v-12.12-android-x-86-64-202009180933-k-kernel-5.8-si-next-rmi-m-q-dgc-q/bliss-os-v-12.12-android-x-86-64-202009180933-k-kernel-5.8-si-next-rmi-m-q-dgc-q.iso"
 ISO_FILE="win11-gamer.iso"
 
 DISK_FILE="/var/win11.qcow2"
